@@ -6,8 +6,7 @@ Este dashboard fue diseñado para responder las siguientes preguntas de negocio:
 
 - ¿Qué productos generan mayor rentabilidad?
 - ¿Los productos con mayores ventas son realmente los más rentables?
-- ¿Qué productos aportan mayor valor al negocio?
-- ¿Qué productos destruyen valor a pesar de generar ingresos?
+- ¿Qué productos generan pérdidas a pesar de generar ingresos?
 - ¿Qué nivel de descuento ofrece el mejor equilibrio entre ventas y rentabilidad?
 - ¿Qué ciudades representan los mercados más rentables?
 
