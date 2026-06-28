@@ -52,7 +52,7 @@ Además, incorpora filtros dinámicos por categoría y producto, permitiendo exp
 
 Esta sección facilita identificar rápidamente qué productos generan mayores ventas, cuáles producen mayor utilidad y cuáles presentan un menor nivel de rentabilidad.
 <p align="center">
-<img src="´Product_perfomance_analysis.png" width="900">
+<img src="Product_perfomance_analysis.png" width="900">
 </p>
 ---
 
