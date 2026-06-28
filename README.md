@@ -76,7 +76,7 @@ Para ello se desarrollaron las siguientes métricas:
 
 Este análisis demuestra que un alto volumen de ventas no implica necesariamente una mayor contribución a la utilidad, permitiendo identificar qué productos aportan realmente valor al negocio.
 <p align="center">
-<img src="Images/contribution profit and sales by product" width="900">
+<img src="Images/contribution profit and sales by product.png" width="900">
 </p>
 ---
 
@@ -101,7 +101,7 @@ Para ello se desarrollaron los siguientes indicadores para cada producto:
 Este análisis permitió identificar productos cuyos descuentos incrementan considerablemente la participación en ventas manteniendo una rentabilidad aceptable, así como aquellos donde los descuentos reducen significativamente el margen de ganancia.
 
 <p align="center">
-<img src="Images/impact of discount per product" width="900">
+<img src="Images/impact of discount per product.png" width="900">
 </p>
 
 ---
@@ -123,7 +123,7 @@ Además, al posicionar el cursor sobre una ciudad se muestran indicadores adicio
 - Descuento promedio aplicado.
 - Margen de ganancia.
 <p align="center">
-<img src="Images/page_4" width="900">
+<img src="Images/page_4.png" width="900">
 </p>
 ---
 
